@@ -1,0 +1,83 @@
+.frame3 {
+    width: 426px; /* Largeur spécifiée comme "Hug (1,106px)" */
+    height: 120px; /* Hauteur spécifiée comme "Hug (891px)" */
+    left: 750px; 
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 11px 15px;
+    margin: 10px;
+    position: absolute;
+    top: 110px;
+  }
+  .frame3-header {
+    margin-top: 3px;
+    font-size: 14px;
+    color: #c9c7c7;
+    text-align: right; /* Aligner le texte à droite */
+  }
+  .week3 {
+    margin-top: -50px;
+  }
+  .F3HG {
+    margin-top: -9px; /* Ajustez la valeur en conséquence */
+    width: 40px;
+    height: 40px;
+    margin-left: 0px;
+  }
+  .frame3-body {
+    margin-top: -10px;
+    display: flex;
+    align-items: baseline; /* Alignez les éléments de manière à ce que leur ligne de base soit alignée */
+
+}
+
+  .frame3-BG {
+    margin-right: 10px; /* Ajoutez un espacement entre "Sales" et "Volume" */
+  }
+  .allorders-text {
+    display: block; /* Assurez-vous que le texte apparaît sur une nouvelle ligne */
+  
+  }
+  .F3BG {
+    display: flex;
+    align-items: baseline; /* Aligner les éléments de manière à ce que leur ligne de base soit alignée */
+  }
+  
+  .zero-text {
+    display: block;
+    margin-top: 5px;
+    font-size: 20px;
+  }
+  
+  .percentage-text {
+    display: block;
+    font-size: 12px;
+    color: green;
+    margin-left: 5px; /* Ajustez la valeur selon vos besoins */
+  }
+  .pending-text {
+    font-size: 14px; /* Ajustez la taille de la police selon vos besoins */
+    color: rgb(141, 141, 143); /* Couleur du texte pour "Volume" */
+    margin-left: 170px;
+    margin-top:  10px;
+    margin-left: 100px;
+  
+  }
+  .pending-zero {
+    font-size: 20px;
+    color: rgb(6, 6, 6);
+    margin-top: 5px;
+  }
+  .completed-text {
+    font-size: 14px; /* Ajustez la taille de la police selon vos besoins */
+    color: rgb(141, 141, 143); /* Couleur du texte pour "Volume" */
+    margin-left: 170px;
+    margin-top:  10px;
+    margin-left: 100px;
+
+  }
+  .completed-zero {
+    font-size: 20px;
+    color: rgb(6, 6, 6);
+    margin-top: 5px;
+  }

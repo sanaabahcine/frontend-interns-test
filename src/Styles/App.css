@@ -1,0 +1,19 @@
+.app {
+  overflow-y: scroll;
+ 
+}
+body {
+ 
+  background-color: rgba(218, 215, 215, 0.785);
+  height: 2000px;
+  width: 2000px;
+ 
+}
+.pink-border {
+  background-color: rgb(255, 237, 240); /* Couleur de fond rose */
+  padding: 1px; /* Ajoutez un rembourrage si nécessaire */
+  border-radius: 5px; /* Ajoutez un arrondi pour créer un cadre rose, ajustez selon vos besoins */
+  display: inline-block; /* Pour s'assurer que le cadre s'adapte à la taille de l'icône */
+  margin-top: -10px;
+  width: 30px; /* Remplacez 100px par la largeur souhaitée */
+}

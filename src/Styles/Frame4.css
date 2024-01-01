@@ -1,0 +1,26 @@
+/* Frame4.css */
+
+.frame4 {
+  width: 321px;
+  height: 300px;
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 11px 15px;
+  margin: 20px;
+  position: absolute;
+  top: 260px;
+}
+
+.frame4-header {
+  font-size: 16px;
+  color: #c9c7c7;
+
+  text-align: right;
+}
+
+.Marketing {
+  margin-top: -25px;
+  width: 40px;
+  height: 40px;
+}
+

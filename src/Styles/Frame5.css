@@ -1,0 +1,85 @@
+.frame5 {
+  width: 321px;
+  height: 140px;
+  background-color: #D23565;
+  border-radius: 12px;
+  padding: 11px 15px;
+  margin: 10px;
+  position: absolute;
+  top: 272px;
+  left: 378px;
+}
+
+.frame5-header {
+  font-size: 14px;
+  color: #c9c7c7;
+}
+
+.chevron {
+  margin-left: 5px; /* Ajouter un espacement entre "This Week" et le chevron */
+}
+
+.frame5-body {
+  display: flex;
+  align-items: baseline; /* Alignez les éléments de manière à ce que leur ligne de base soit alignée */
+  margin-top: 15px;
+}
+
+.frame5-BG {
+  margin-right: 10px; /* Ajoutez un espacement entre "Sales" et "Volume" */
+}
+
+.allproducts-text {
+  display: block; /* Assurez-vous que le texte apparaît sur une nouvelle ligne */
+  color: rgb(255, 255, 255);
+}
+
+.F5BG {
+  display: flex;
+  align-items: baseline; /* Aligner les éléments de manière à ce que leur ligne de base soit alignée */
+}
+
+.zero5-text {
+  display: block;
+  margin-top: 5px;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.percentage5-text {
+  display: block;
+  font-size: 12px;
+  color: rgb(255, 255, 255);
+  margin-left: 5px; /* Ajustez la valeur selon vos besoins */
+}
+
+.active5-zero {
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  margin-top: 5px;
+}
+
+.active5-text {
+  color: rgb(255, 255, 255);
+  font-size: 14px; /* Ajustez la taille de la police selon vos besoins */
+  margin-left: 100px; /* Ajustez la valeur selon vos besoins */
+  margin-top: 10px;
+}
+
+.F5HG {
+  width: 40px;
+  height: 40px;
+  color: #ffffff;
+  margin-top: auto; /* Positionne le logo en bas du conteneur */
+}
+
+
+.pink-border5 {
+  background-color: rgb(224, 46, 123); /* Couleur de fond rose */
+  padding: 1px; /* Ajoutez un rembourrage si nécessaire */
+  border-radius: 8px; /* Ajoutez un arrondi pour créer un cadre rose, ajustez selon vos besoins */
+  display: inline-block; /* Pour s'assurer que le cadre s'adapte à la taille de l'icône */
+  margin-top: -20px;
+  width: 30px; /* Remplacez 100px par la largeur souhaitée */
+  height: 30px;
+}

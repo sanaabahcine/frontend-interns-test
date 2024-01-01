@@ -1,0 +1,74 @@
+/* Frame5.css */
+.frame6 {
+    width: 321px;
+    height: 120px;
+    background-color: #ffffff;
+    
+    border-radius: 12px;
+    padding: 11px 15px;
+    margin: 10px;
+    position: absolute;
+    top: 450px;
+    left: 378px;
+
+
+}
+
+  .frame6-header {
+    font-size: 14px;
+    color: #101010;
+    text-align: right; /* Aligner le texte à droite */
+  }
+  
+.chevron6 {
+    margin-left: 5px; /* Ajouter un espacement entre "This Week" et le chevron */
+  }
+  .F5HG {
+    margin-top: -50px; /* Ajustez la valeur en conséquence */
+    width: 40px;
+    height: 40px;
+  }
+  .frame6-body {
+    display: flex;
+    align-items: baseline; /* Alignez les éléments de manière à ce que leur ligne de base soit alignée */
+    margin-top: 15px;
+}
+  .frame6-BG {
+    margin-right: 10px; /* Ajoutez un espacement entre "Sales" et "Volume" */
+  }
+  .abandonedcart-text {
+    display: block; /* Assurez-vous que le texte apparaît sur une nouvelle ligne */
+    color: rgb(7, 7, 7);
+
+  }
+  .F6BG {
+
+    display: flex;
+    align-items: baseline; /* Aligner les éléments de manière à ce que leur ligne de base soit alignée */
+  }
+  
+  .zero6-text {
+    display: block;
+    margin-top: 5px;
+    font-size: 20px;
+    color: rgb(20, 20, 20);
+
+  }
+  
+
+  .costomers6-zero {
+    font-size: 20px;
+    color: rgb(15, 15, 15);
+    margin-top: 5px;
+  }
+ .costomers6-text{
+    color: rgb(12, 12, 12);
+    font-size: 14px; /* Ajustez la taille de la police selon vos besoins */
+    margin-r: 170px;
+    margin-top:  10px;
+    margin-left: 100px;
+ }
+ .F6HG   {
+  margin-top: 4px;
+  margin-left: 2px;
+ }
