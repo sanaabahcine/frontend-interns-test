@@ -16,27 +16,27 @@
 }
 
 .chevron {
-  margin-left: 5px; /* Ajouter un espacement entre "This Week" et le chevron */
+  margin-left: 5px;
 }
 
 .frame5-body {
   display: flex;
-  align-items: baseline; /* Alignez les éléments de manière à ce que leur ligne de base soit alignée */
+  align-items: baseline;
   margin-top: 15px;
 }
 
 .frame5-BG {
-  margin-right: 10px; /* Ajoutez un espacement entre "Sales" et "Volume" */
+  margin-right: 10px;
 }
 
 .allproducts-text {
-  display: block; /* Assurez-vous que le texte apparaît sur une nouvelle ligne */
+  display: block;
   color: rgb(255, 255, 255);
 }
 
 .F5BG {
   display: flex;
-  align-items: baseline; /* Aligner les éléments de manière à ce que leur ligne de base soit alignée */
+  align-items: baseline;
 }
 
 .zero5-text {
@@ -50,7 +50,7 @@
   display: block;
   font-size: 12px;
   color: rgb(255, 255, 255);
-  margin-left: 5px; /* Ajustez la valeur selon vos besoins */
+  margin-left: 5px;
 }
 
 .active5-zero {
@@ -61,8 +61,8 @@
 
 .active5-text {
   color: rgb(255, 255, 255);
-  font-size: 14px; /* Ajustez la taille de la police selon vos besoins */
-  margin-left: 100px; /* Ajustez la valeur selon vos besoins */
+  font-size: 14px;
+  margin-left: 100px;
   margin-top: 10px;
 }
 
@@ -70,16 +70,15 @@
   width: 40px;
   height: 40px;
   color: #ffffff;
-  margin-top: auto; /* Positionne le logo en bas du conteneur */
+  margin-top: auto;
 }
 
-
 .pink-border5 {
-  background-color: rgb(224, 46, 123); /* Couleur de fond rose */
-  padding: 1px; /* Ajoutez un rembourrage si nécessaire */
-  border-radius: 8px; /* Ajoutez un arrondi pour créer un cadre rose, ajustez selon vos besoins */
-  display: inline-block; /* Pour s'assurer que le cadre s'adapte à la taille de l'icône */
+  background-color: rgb(224, 46, 123);
+  padding: 1px;
+  border-radius: 8px;
+  display: inline-block;
   margin-top: -20px;
-  width: 30px; /* Remplacez 100px par la largeur souhaitée */
+  width: 30px;
   height: 30px;
 }

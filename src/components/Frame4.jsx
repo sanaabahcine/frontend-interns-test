@@ -1,9 +1,7 @@
-// Importez PropTypes depuis la bibliothèque prop-types
 import PropTypes from 'prop-types';
 import { PieChart, Pie, Cell, Legend, Label } from 'recharts';
 import "../Styles/Frame4.css";
 
-// Définissez la fonction de rendu de la légende en dehors du composant principal
 const CustomLegend = (props) => {
   const { payload } = props;
 
@@ -21,7 +19,6 @@ const CustomLegend = (props) => {
   );
 };
 
-// Définissez les types des propriétés de la légende en dehors de la fonction de rendu
 CustomLegend.propTypes = {
   payload: PropTypes.arrayOf(
     PropTypes.shape({
@@ -46,9 +43,7 @@ const Frame4 = () => {
       </div>
 
       <div className="frame4-body">
-        {/* Insérez le composant de diagramme circulaire ici */}
         <PieChart width={400} height={400}>
-          {/* Ajoutez les labels au-dessus du cercle */}
           <Label value="Acquisition" position={{ x: -20, y: -20 }} />
           <Label value="Purchase" position={{ x: 0, y: -20 }} />
           <Label value="Retention" position={{ x: 20, y: -20 }} />

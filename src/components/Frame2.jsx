@@ -1,4 +1,3 @@
-// Header.js
 import "../Styles/Frame2.css";
 import GroupIcon from '@mui/icons-material/Group';
 const Frame2 = () => {

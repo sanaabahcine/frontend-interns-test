@@ -1,5 +1,3 @@
-/* Header.css */
-
 body {
   margin: 0;
   padding: 0;
@@ -12,68 +10,60 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: absolute;  width: 100%;
+  position: absolute;  
+  width: 100%;
   top: 0;
 }
 
 .left-section {
   margin-top: -10px;
 }
+
 .Dashboard {
   font-size: 20px;
   color: #090909;
-
-
 }
+
 .homelogo {
   width: 24px;
   height: 24px;
   margin-left: 11px;
   margin-top: 10px;
   color: #da2976;
-
 }
-.page {
- margin-right: 40px;
 
+.page {
+  margin-right: 40px;
 }
 
 .page span {
-  margin: 0 5px;/*espacement entre page et /*/
+  margin: 0 5px;
   color: #848080;
   margin-right: 10px;
-
 }
-
-
 
 .right-section {
   display: flex;
-  flex-direction: row; /* Ajuste la direction en ligne pour aligner les éléments horizontalement */
-  align-items: center; /* Aligne les éléments au centre verticalement */
-  margin-right: 40px; 
- 
+  flex-direction: row;
+  align-items: center;
+  margin-right: 40px;
   margin-top: 10px;
 }
 
 .logogauche {
   width: 36px;
   height: 42px;
-  margin-left: 5px; /* Ajuste la marge entre le logo et le texte */
-  transform: rotate(90deg); /* Ajuste l'angle de rotation selon vos besoins */
+  margin-left: 5px;
+  transform: rotate(90deg);
   margin-top: 4px;
 }
 
-
-
-
-.notification{
+.notification {
   width: 10px;
   height: 30px;
   color: #D23565;
   margin-left: 2px;
 }
-
 
 .LLC {
   font-size: 13px;
@@ -82,37 +72,28 @@ body {
   margin-left: 64px;
 }
 
-.Anima  {
+.Anima {
   font-weight: bold;
   color: #0b0b0b;
   margin-left: 30px;
-
 }
-  .pink-borderNH {
-    background-color: rgb(255, 237, 240); /* Couleur de fond rose */
-    padding: 1px; /* Ajoutez un rembourrage si nécessaire */
-    border-radius: 95px; /* Ajoutez un arrondi pour créer un cadre rose, ajustez selon vos besoins */
-    display: inline-block; /* Pour s'assurer que le cadre s'adapte à la taille de l'icône */
-    margin-left: 10px;
-    margin-top: -4px;
-  
-  }
 
+.pink-borderNH {
+  background-color: rgb(255, 237, 240);
+  padding: 1px;
+  border-radius: 95px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: -4px;
+}
 
-
-
- .pink-borderKeyboar {
+.pink-borderKeyboar {
   background-color: #E0146163;
-  ; /* Couleur de fond rose */
-  padding: 1px; /* Ajoutez un rembourrage si nécessaire */
-  border-radius: 9px; /* Ajoutez un arrondi pour créer un cadre rose, ajustez selon vos besoins */
-  display: inline-block; /* Pour s'assurer que le cadre s'adapte à la taille de l'icône */
+  padding: 1px;
+  border-radius: 9px;
+  display: inline-block;
   margin-top: -1px;
-  width: 32px; /* Pour s'assurer que le cadre s'adapte à la taille de l'icône */
+  width: 32px;
   height: 34px;
   margin-left: 20px;
 }
-
-
-
-  

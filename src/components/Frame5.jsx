@@ -1,4 +1,3 @@
-// Frame5.jsx
 import "../Styles/Frame5.css";
 import FolderOpenIcon from '@mui/icons-material/FolderOpen';const Frame5 = () => {
   return (

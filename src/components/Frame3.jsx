@@ -1,4 +1,3 @@
-// Header.js
 import "../Styles/Frame3.css";
 
 const Frame3 = () => {

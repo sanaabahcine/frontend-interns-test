@@ -7,25 +7,25 @@
     background-color: #fff;
     border-radius: 12px;
     padding: 11px 15px;
-    margin: 10px; /* Espacement entre le cadre et le reste du contenu */
+    margin: 10px; 
     position:absolute;
-    top: 110px; /* Ajuster la valeur en fonction de la hauteur de votre header */
-    left: 7px; /* Ajuster la valeur en fonction de l'espacement souhaité à gauche */
+    top: 110px;
+    left: 7px; 
   
   }
 
 .frame1-header {
     font-size: 14px;
     color: #c9c7c7;
-    text-align: right; /* Aligner le texte à droite */
+    text-align: right; 
   }
   
 
   .chevron {
-    margin-left: 5px; /* Ajouter un espacement entre "This Week" et le chevron */
+    margin-left: 5px; 
   }
   .F1LHG {
-    margin-top: -40px; /* Ajustez la valeur en conséquence */
+    margin-top: -40px; 
     width: 40px;
     height: 40px;
   }
@@ -34,21 +34,21 @@
   
   .frame1-body {
     display: flex;
-    align-items: baseline; /* Alignez les éléments de manière à ce que leur ligne de base soit alignée */
+    align-items: baseline; 
     margin-top: 15px;
   }
 
   .frame1-BG {
-    margin-right: 10px; /* Ajoutez un espacement entre "Sales" et "Volume" */
+    margin-right: 10px;
   }
   
   .sales-text {
-    display: block; /* Assurez-vous que le texte apparaît sur une nouvelle ligne */
+    display: block;
   
   }
   .amount-and-percentage {
     display: flex;
-    align-items: baseline; /* Aligner les éléments de manière à ce que leur ligne de base soit alignée */
+    align-items: baseline;
   }
   
   .amount-text {
@@ -61,15 +61,14 @@
     display: block;
     font-size: 12px;
     color: green;
-    margin-left: 5px; /* Ajustez la valeur selon vos besoins */
+    margin-left: 5px; 
   }
 
 
  
   .volume-text {
-    font-size: 14px; /* Ajustez la taille de la police selon vos besoins */
-    color: rgb(141, 141, 143); /* Couleur du texte pour "Volume" */
-    margin-left: 170px;
+    font-size: 14px; 
+    color: rgb(141, 141, 143); 
     margin-top:  10px;
     margin-left: 100px;
   

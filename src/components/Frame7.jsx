@@ -1,4 +1,3 @@
-// Frame7.jsx
 import "../Styles/Frame7.css";
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 const Frame7 = () => {

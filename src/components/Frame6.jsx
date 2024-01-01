@@ -1,4 +1,3 @@
-// Frame5.jsx
 import "../Styles/Frame6.css";
 import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 const Frame6 = () => {
@@ -17,9 +16,9 @@ const Frame6 = () => {
     <div className="frame6-body">
         <div className="frame5-BG">
           <div className="abandonedcart-text">Abandoned Cart</div>
-          <div className="F6BG">
-  <div className="zero5-text">0</div>
-  <div className="percentage6-text">+0.00%</div>
+          <div className="F2BG">
+  <div className="zero-text">0</div>
+  <div className="percentage-text">+0.00%</div>
 </div>
         </div>
         <div className="costomers6-text">

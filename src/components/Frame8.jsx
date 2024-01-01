@@ -1,4 +1,3 @@
-// Frame8.js
 import Chart from 'react-apexcharts';
 import "../Styles/Frame8.css";
 
