@@ -1,6 +1,3 @@
-### Mon Application React avec Vite
-
-Bienvenue dans mon application React construite avec Vite.
 
 ### Instructions d'exécution locale
 
